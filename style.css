@@ -1,0 +1,44 @@
+.img1{width:185px;height: 100px;border: 20px solid black;}
+header{background-color:black;color:white;display:flex;align-items:center; }
+body{margin:0;background-color: rgb(168, 162, 162);font-family: fantasy;}
+.HAHA{color:rgb(45, 45, 241);
+text-decoration: none;
+border:5px solid #494444;
+border-radius: 20px;
+padding: 5px;
+margin: 20px;
+background-color: white;
+
+
+
+
+
+}
+main{margin-top: 25px;}
+.img2{width: 200px;height: 200px;margin-top: 20px; }
+.div1{display:flex;align-items: center;justify-content:space-around ;}
+.div2{display:flex;align-items: center;justify-content:space-around ;}
+.img3{width: 200px;height: 200px;margin-top: 50px;}
+.div3{display:flex;align-items: center;justify-content:space-around;margin-top: 20px; }
+.img4{width: 200px;height: 200px; }
+footer{background-color: black;}
+.img5{width: 200px;height: 50px; margin-top: 30px;}
+.nav4{color: white;}
+.a3{border:3px solid gray;
+text-decoration: none;
+border-radius: 20px;
+color:gray;
+background-color: white;
+padding:5px;
+margin:10px;
+margin-top: 30px;
+
+}
+
+.a4{border:3px solid gray;text-decoration: none;
+border-radius: 20px;
+color:gray;
+background-color: white;
+padding:5px;
+margin:10px;
+margin-top: 30px;}
